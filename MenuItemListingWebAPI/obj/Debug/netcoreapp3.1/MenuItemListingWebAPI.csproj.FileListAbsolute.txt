@@ -20,3 +20,25 @@ C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuI
 C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.pdb
 C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.genruntimeconfig.cache
 C:\Users\2091464\OneDrive - Cognizant\Desktop\training\Cloud\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\CloudDeployment.yml
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.exe
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\CloudDeployment.yml
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.deps.json
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.runtimeconfig.json
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.runtimeconfig.dev.json
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.dll
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\bin\Debug\netcoreapp3.1\MenuItemListingWebAPI.pdb
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.csproj.AssemblyReference.cache
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.AssemblyInfoInputs.cache
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.AssemblyInfo.cs
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.csproj.CoreCompileInputs.cache
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\MenuItemListingWebAPI.StaticWebAssets.Manifest.cache
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\MenuItemListingWebAPI.StaticWebAssets.xml
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\MenuItemListingWebAPI.styles.css
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.RazorTargetAssemblyInfo.cache
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.dll
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.pdb
+C:\fullstackpractice\Cloud\Practice check\PracticeCheck\PracticeCheck\MenuItemListingWebAPI\MenuItemListingWebAPI\obj\Debug\netcoreapp3.1\MenuItemListingWebAPI.genruntimeconfig.cache

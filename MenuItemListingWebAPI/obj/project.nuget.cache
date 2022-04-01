@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XX9qoYTDaOVJPavoczMHjunSJ3hjG4grXF+GmV8Gtl8iNBnFuNH3iHL+RNJZMjMLT92bWqo3AcAj0jZEm+WwCA==",
+  "dgSpecHash": "jIR7utQWhMaIV64ybXdeSicQLay5kgTxvLoBRVYP7LHQ7wogc/IlB7LTc3LrQvqsUk2ct4egS4OI8IZBJCqVVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\2091464\\OneDrive - Cognizant\\Desktop\\training\\Cloud\\PracticeCheck\\MenuItemListingWebAPI\\MenuItemListingWebAPI\\MenuItemListingWebAPI.csproj",
+  "projectFilePath": "C:\\fullstackpractice\\Cloud\\Practice check\\PracticeCheck\\PracticeCheck\\MenuItemListingWebAPI\\MenuItemListingWebAPI\\MenuItemListingWebAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\2091464\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+    "C:\\Users\\2090936\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
   ],
   "logs": []
 }
